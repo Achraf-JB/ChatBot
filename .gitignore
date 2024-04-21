@@ -165,3 +165,8 @@ artifacts/*
 
 # Ignorer les fichiers de suivi de MLflow
 mlruns.db
+# Ignore photos
+*.jpg
+*.jpeg
+*.png
+*.gif
